@@ -1,0 +1,216 @@
+
+@font-face{
+font-family: 'MyWebFont';
+src: url('https://donate.coincryptostar.tk/fonts/WebFont.eot');
+src: url('https://donate.coincryptostar.tk/fonts/WebFont.eot?iefix') format('eot'),
+url('https://donate.coincryptostar.tk/fonts/WebFont.woff') format('woff'),
+url('https://donate.coincryptostar.tk/fonts/WebFont.ttf') format('truetype'),
+url('https://donate.coincryptostar.tk/fonts/WebFont.svg') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: "AvenirNextBold";
+    src: url("https://donate.coincryptostar.tk/webfonts/AvenirNextBold/AvenirNextBold.eot");
+    src: url("https://donate.coincryptostar.tk/webfonts/AvenirNextBold/AvenirNextBold.eot@")format("embedded-opentype"),
+    url("https://donate.coincryptostar.tk/webfonts/AvenirNextBold/AvenirNextBold.woff") format("woff"),
+    url("https://donate.coincryptostar.tk/webfonts/AvenirNextBold/AvenirNextBold.ttf") format("truetype");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Bold.eot');
+    src: local('Avenir Next Cyr Bold'), local('AvenirNextCyr-Bold'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Bold.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Bold.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Bold.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-ThinItalic.eot');
+    src: local('Avenir Next Cyr Thin Italic'), local('AvenirNextCyr-ThinItalic'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-ThinItalic.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-ThinItalic.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-ThinItalic.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-ThinItalic.ttf') format('truetype');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-MediumItalic.eot');
+    src: local('Avenir Next Cyr Medium Italic'), local('AvenirNextCyr-MediumItalic'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-MediumItalic.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-MediumItalic.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-MediumItalic.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr Ultra';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLightIt.eot');
+    src: local('Avenir Next Cyr Ultra Light Italic'), local('AvenirNextCyr-UltraLightIt'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLightIt.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLightIt.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLightIt.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLightIt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Light.eot');
+    src: local('Avenir Next Cyr Light'), local('AvenirNextCyr-Light'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Light.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Light.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Light.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Italic.eot');
+    src: local('Avenir Next Cyr Italic'), local('AvenirNextCyr-Italic'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Italic.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Italic.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Italic.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-BoldItalic.eot');
+    src: local('Avenir Next Cyr Bold Italic'), local('AvenirNextCyr-BoldItalic'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-BoldItalic.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-BoldItalic.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-BoldItalic.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Heavy.eot');
+    src: local('Avenir Next Cyr Heavy'), local('AvenirNextCyr-Heavy'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Heavy.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Heavy.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Heavy.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-HeavyItalic.eot');
+    src: local('Avenir Next Cyr Heavy Italic'), local('AvenirNextCyr-HeavyItalic'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-HeavyItalic.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-HeavyItalic.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-HeavyItalic.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-HeavyItalic.ttf') format('truetype');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Thin.eot');
+    src: local('Avenir Next Cyr Thin'), local('AvenirNextCyr-Thin'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Thin.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Thin.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Thin.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Medium.eot');
+    src: local('Avenir Next Cyr Medium'), local('AvenirNextCyr-Medium'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Medium.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Medium.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Medium.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-DemiItalic.eot');
+    src: local('Avenir Next Cyr Demi Italic'), local('AvenirNextCyr-DemiItalic'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-DemiItalic.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-DemiItalic.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-DemiItalic.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-DemiItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Demi.eot');
+    src: local('Avenir Next Cyr Demi'), local('AvenirNextCyr-Demi'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Demi.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Demi.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Demi.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Demi.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Regular.eot');
+    src: local('Avenir Next Cyr Regular'), local('AvenirNextCyr-Regular'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Regular.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Regular.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Regular.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-LightItalic.eot');
+    src: local('Avenir Next Cyr Light Italic'), local('AvenirNextCyr-LightItalic'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-LightItalic.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-LightItalic.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-LightItalic.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Avenir Next Cyr Ultra';
+    src: url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLight.eot');
+    src: local('Avenir Next Cyr Ultra Light'), local('AvenirNextCyr-UltraLight'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLight.eot?') format('embedded-opentype'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLight.woff2') format('woff2'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLight.woff') format('woff'),
+        url('https://donate.coincryptostar.tk/css/AvenirNextCyr-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
